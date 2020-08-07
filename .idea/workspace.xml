@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eb58b94-f5c6-4bb8-b925-d32e8108a4eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/07_正则表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_正则表达式.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fmNFkHC6Jhkmh5Gtymnm0OnGOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="07_正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_正则表达式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07_正则表达式" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eb58b94-f5c6-4bb8-b925-d32e8108a4eb" name="Default Changelist" comment="" />
+      <created>1596819206181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596819206181</updated>
+      <workItem from="1596819207349" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1737" height="295" key="GridCell.Tab.0.bottom" timestamp="1596819284500">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state width="1737" height="295" key="GridCell.Tab.0.bottom/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
+    <state width="1737" height="295" key="GridCell.Tab.0.center" timestamp="1596819284500">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state width="1737" height="295" key="GridCell.Tab.0.center/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
+    <state width="1737" height="295" key="GridCell.Tab.0.left" timestamp="1596819284500">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state width="1737" height="295" key="GridCell.Tab.0.left/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
+    <state width="1737" height="295" key="GridCell.Tab.0.right" timestamp="1596819284500">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state width="1737" height="295" key="GridCell.Tab.0.right/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
+    <state x="622" y="273" key="Vcs.Push.Dialog.v2" timestamp="1596819224264">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state x="622" y="273" key="Vcs.Push.Dialog.v2/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819224264" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$07_.coverage" NAME="07_正则表达式 Coverage Results" MODIFIED="1596819282215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
