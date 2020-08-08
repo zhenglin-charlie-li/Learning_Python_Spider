@@ -6,15 +6,13 @@ json_str = '''[
     "b": [1, 2,"熊猫"]
   },
   {
-    "c": "thia is c",
-    "d": [1, 2, "哈哈哈"]
+    "c": "thia is c"
   }
 ]'''
 
 rs = json.loads(json_str)
-json_str = json.dumps(rs,ensure_ascii=False)
+json_str = json.dumps(rs, ensure_ascii=False)
 print(json_str)
 
-
-with open("data/test1.json",'w',encoding='utf8') as fp:
-    json.dump(rs,fp,ensure_ascii=False)
+with open("data/test1.json", 'w', encoding='utf8') as fp:
+    json.dump(rs, fp, ensure_ascii=False)

@@ -17,5 +17,5 @@ json_str = re.findall(r'\[.+\]', text)[0]
 last_day_situation = json.loads(json_str)
 # print(last_day_situation)
 
-with open("data/last_day_situation.json",'w',encoding='utf8') as fp:
-    json.dump(last_day_situation,fp,ensure_ascii=False)
+with open("data/last_day_situation.json", 'w', encoding='utf8') as fp:
+    json.dump(last_day_situation, fp, ensure_ascii=False)
