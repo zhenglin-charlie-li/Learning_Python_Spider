@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7eb58b94-f5c6-4bb8-b925-d32e8108a4eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/07_正则表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_正则表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_正则表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_正则表达式2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_提取json字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_json转python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_python转json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_正则表达式.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fmNFkHC6Jhkmh5Gtymnm0OnGOD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,9 +57,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
-    <configuration name="07_正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13_python转json">
+    <configuration name="07_正则表达式2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="疫情爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,7 +73,117 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_正则表达式.py" />
+      <option name="SCRIPT_NAME" value="D:\code is here\python\疫情爬虫\07_正则表达式2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_正则表达式2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\code is here\python\疫情爬虫\07_正则表达式2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_提取json字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_提取json字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_json转python (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_json转python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_json转python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\code is here\python\疫情爬虫\12_json转python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_python转json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="疫情爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_python转json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_正则表达式" />
+        <item itemvalue="Python.13_python转json" />
+        <item itemvalue="Python.12_json转python (1)" />
+        <item itemvalue="Python.12_json转python" />
+        <item itemvalue="Python.09_提取json字符串" />
+        <item itemvalue="Python.07_正则表达式2" />
       </list>
     </recent_temporary>
   </component>
@@ -62,35 +213,86 @@
       <option name="presentableId" value="Default" />
       <updated>1596819206181</updated>
       <workItem from="1596819207349" duration="78000" />
+      <workItem from="1596843660971" duration="2331000" />
+      <workItem from="1596846494515" duration="4250000" />
+      <workItem from="1596851168969" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1737" height="295" key="GridCell.Tab.0.bottom" timestamp="1596819284500">
+    <state x="484" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596845671006">
       <screen x="140" y="0" width="1780" height="1080" />
     </state>
+    <state x="484" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596845671006" />
+    <state x="232" y="92" width="1596" height="896" key="DiffContextDialog" timestamp="1596846479151">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state x="232" y="92" width="1596" height="896" key="DiffContextDialog/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596846479151" />
+    <state width="1737" height="207" key="GridCell.Tab.0.bottom" timestamp="1596851884229">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state width="1737" height="207" key="GridCell.Tab.0.bottom/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596851884229" />
     <state width="1737" height="295" key="GridCell.Tab.0.bottom/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
-    <state width="1737" height="295" key="GridCell.Tab.0.center" timestamp="1596819284500">
+    <state width="1737" height="207" key="GridCell.Tab.0.center" timestamp="1596851884229">
       <screen x="140" y="0" width="1780" height="1080" />
     </state>
+    <state width="1737" height="207" key="GridCell.Tab.0.center/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596851884229" />
     <state width="1737" height="295" key="GridCell.Tab.0.center/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
-    <state width="1737" height="295" key="GridCell.Tab.0.left" timestamp="1596819284500">
+    <state width="1737" height="207" key="GridCell.Tab.0.left" timestamp="1596851884228">
       <screen x="140" y="0" width="1780" height="1080" />
     </state>
+    <state width="1737" height="207" key="GridCell.Tab.0.left/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596851884228" />
     <state width="1737" height="295" key="GridCell.Tab.0.left/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
-    <state width="1737" height="295" key="GridCell.Tab.0.right" timestamp="1596819284500">
+    <state width="1737" height="207" key="GridCell.Tab.0.right" timestamp="1596851884229">
       <screen x="140" y="0" width="1780" height="1080" />
     </state>
+    <state width="1737" height="207" key="GridCell.Tab.0.right/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596851884229" />
     <state width="1737" height="295" key="GridCell.Tab.0.right/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819284500" />
+    <state x="531" y="184" key="SettingsEditor" timestamp="1596849792012">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state x="531" y="184" key="SettingsEditor/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596849792012" />
     <state x="622" y="273" key="Vcs.Push.Dialog.v2" timestamp="1596819224264">
       <screen x="140" y="0" width="1780" height="1080" />
     </state>
     <state x="622" y="273" key="Vcs.Push.Dialog.v2/140.0.1780.1080/1920.23.1600.900/-1080.-152.1080.1920@140.0.1780.1080" timestamp="1596819224264" />
+    <state x="693" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596849496979">
+      <screen x="140" y="0" width="1780" height="1080" />
+    </state>
+    <state x="693" y="235" width="672" height="678" key="search.everywhere.popup/140.0.1780.1080/-1080.-152.1080.1920/1920.23.1600.900@140.0.1780.1080" timestamp="1596849496979" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$07_re_findall.coverage" NAME="07_re.findall方法 Coverage Results" MODIFIED="1596845676460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$12_jsonpython__1_.coverage" NAME="12_json转python (1) Coverage Results" MODIFIED="1596850596746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$07_.coverage" NAME="07_正则表达式 Coverage Results" MODIFIED="1596819282215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$09_json.coverage" NAME="09_提取json字符串 Coverage Results" MODIFIED="1596847880852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$13_pythonjson.coverage" NAME="13_python转json Coverage Results" MODIFIED="1596851884221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$07_re_findall__1_.coverage" NAME="07_re.findall方法 (1) Coverage Results" MODIFIED="1596846249326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$jsonpython.coverage" NAME="json转python Coverage Results" MODIFIED="1596850044762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
