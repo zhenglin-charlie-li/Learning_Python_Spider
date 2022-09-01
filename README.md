@@ -10,5 +10,5 @@ Crawl the notification on the home page of Sichuan University Academic Affairs O
 
 https://www.bilibili.com/video/BV1464y1c7Eq?share_source=copy_web&vd_source=5b89475fb71ccc73749dfaac732a974e
 
-## notebook
-the note I took during learning [link](notebook.md)
+## note
+the note I took during learning [notebook](notebook.md)
