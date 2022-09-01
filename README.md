@@ -1,5 +1,5 @@
 
-# Learning-Python_Spider
+# Learning_Python_Spider
 
 ## Learning-spider-scu-jwc
 Crawl the notification on the home page of Sichuan University Academic Affairs Office and push it by email
